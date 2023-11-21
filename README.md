@@ -1,6 +1,6 @@
 [![MasterHead](https://www.freecodecamp.org/news/content/images/2021/10/github-on-the-hunt-for-a-new-diversity-lead-developers-techworld-github-universe-png-800_450.png)](https://github.com/MilanKDev)
 <h1 align="center">Hi 👋, I'm MilanKachhot</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 <img align="right" alt="code" width="450" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47kwi708hip22frbugqts5w8o3sswu8ej167upowf0&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=milankachhot&label=Profile%20views&color=0e75b6&style=flat" alt="milankachhot" /> </p>
